@@ -1,0 +1,32 @@
+body {
+  background-color: #047336;
+  margin: 2;
+  padding: 20px;
+  border: 3px solid white;
+  text-align: center;
+}
+h1, p{
+  color: white;
+  text-align: center;
+  margin: 2;
+}
+.secondary-header{
+  color: white;
+  text-align: center;
+}
+#special-header{
+  color: white;
+  font-size: 20px
+  text-align: center;
+}
+.button{
+  padding: 1px 1px;
+  background-color: white;
+  border: 2px solid black;
+}
+.button a{
+  text-decoration: none;
+  color: black;
+  display: block;
+  text-align: center;
+}
